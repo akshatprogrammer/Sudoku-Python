@@ -1,0 +1,17 @@
+##### Gameplay #####
+Welcome to Akshat Sudoku game made with love <3 using Python.
+
+You should have a proper ""internet connection"" to play this game.
+
+you must install pygame, bs4 modules,using
+-> pip install pygame     ####command to install modules.
+
+keep all the python files in same folder. 
+And Run the home.py file .
+
+Thank you!
+Made By Akshat Jain
+
+GitHub :  www.github.com/akshatprogrammer
+Twitter : www.twitter.com/akki_aj89
+LinkedIn : www.linkedin.com/in/akshat-jain-a24baa18a
